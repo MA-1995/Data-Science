@@ -1,1 +1,1 @@
-# Data-Science
+Learning data science and programming.
